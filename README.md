@@ -1,2 +1,2 @@
-# oscarprojects
-Portafolio de proyectos de Oscar
+# Oscar Nuñez
+Bienvenido al portafolio de proyectos profesionales de Oscar Nuñez
